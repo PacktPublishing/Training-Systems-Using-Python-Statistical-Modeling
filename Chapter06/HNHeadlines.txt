@@ -1,0 +1,300 @@
+0,Uber Co-Founder Travis Kalanick Said to Plan Sale of 29% of Stake
+1,Update on Meltdown and Spectre
+2,Intel Issues Updates to Protect Systems from Security Exploits
+3,Where Pot Entrepreneurs Go When the Banks Say No
+4,Announcing the OpenWrt/LEDE merge
+5,Transpile Java Bytecode to WebAssembly
+6,iMac Pro's T2 chip
+7,Productivity in 2017: analyzing 225 million hours of work time
+8,About speculative execution vulnerabilities in ARM-based and Intel CPUs
+9,“My ten hour white noise video now has five copyright claims”
+10,Site Isolation – The Chromium Projects
+11,Xerox Alto zero-day: cracking disk password protection on a 45 year old system
+12,The Best Things and Stuff of 2017
+13,More details about mitigations for the CPU Speculative Execution issue
+14,In pursuit of Otama's tone (2017)
+15,"Show HN: PAST, a secure alternative to JWT"
+16,Ink/stitch: an Inkscape extension for machine embroidery design
+17,Texttop – An interactive X Linux desktop rendered in TTY and streamable over SSH
+18,Battle of the Clipper Chip (1994)
+19,Introducing Preemptible GPUs
+20,"Theo de Raadt, 2007: “some [Intel] bugs will be exploitable from userland code.”"
+21,Wi-Fi startup Eero lays off 30 employees
+22,Atrium is hiring for 10+ positions (Cofounded by Justin Kan)
+23,FCC Chairman Ajit Pai canceled his appearance at CES because of death threats
+24,Algorithm efficiency comes from problem information
+25,How and why we teach non-engineers to use GitHub at Thread
+26,The Dex File Format
+27,Science and Linguistics (1940)
+28,Fighting Fires with Fire Grenades
+29,XPS 13 developer edition 7th generation available
+30,How an A.I. ‘Cat-And-Mouse Game’ Generates Believable Fake Photos
+31,GitHub acquires AppCanary
+32,Show HN: An illustration of Web Developer tools in 2018
+33,What If Sugar Is Worse Than Just Empty Calories? An Essay by Gary Taubes
+34,Substrate VM – A framework that allows AOT compilation of Java applications
+35,Reading privileged memory with a side-channel
+36,How a researcher hacked his own computer and found 'worst' chip flaw
+37,LLVM patch to fix half of Spectre attack
+38,Zhaoxin's x86 CPUs
+39,Environmental Heresies (2006)
+40,Announcing Rust 1.23
+41,A photographer captures the paths that birds make across the sky
+42,Ask HN: When will Intel start selling chips that are not vulnerable to Meltdown
+43,SiliconSqueak: Adapting processor grain via reconfiguration (2014)
+44,Intel CEO sold all the stock he could after Intel learned of security bug
+45,CPU hardware vulnerable to side-channel attacks
+46,Docker for data scientists: Introduction and use cases
+47,Learning to Code as a Woman Changed My Life
+48,More housing near the Expo Line and other California transit stations
+49,"Apple Joins AV1 Codec Effort with Mozilla, Google, Microsoft, Facebook, Amazon"
+50,Tensorflow 1.5.0 release canidate includes “eager execution”
+51,Why did Netflix choose FreeBSD over Linux? (2015)
+52,x86/doc: add PTI description
+53,"The State of JavaScript Frameworks, 2017"
+54,Intel CEO's massive stock dump raises eyebrows
+55,Ripple Slides After Coinbase Says Not Adding New Crypto Coins
+56,You’re Descended from Royalty and So Is Everybody Else
+57,Mitigations landing for new class of timing attack
+58,Microprocessor Design (2017)
+59,Notes from the Intelpocalypse
+60,Why things might have taken so long
+61,Mark Zuckerberg’s personal challenge is all about fixing FB before it implodes
+62,"Oceans suffocating as huge dead zones quadruple since 1950, scientists warn"
+63,Scaleway patches infrastructure to mitigate Intel bug
+64,Show HN: Hourly updated list of subdomains from CT logs
+65,Strengthening Checks on Presidential Nuclear Launch Authority [pdf]
+66,Alan Turing’s “Can Computers Think?” Radio Broadcasts Re-Recorded
+67,The Attraction of Complexity
+68,Hacking WiFi to inject cryptocurrency miner to HTML requests (CoffeeMiner)
+69,Study of sapiosexuality suggests some really are attracted to intelligence
+70,Deep learning sharpens views of cells and genes
+71,Frontmacs
+72,Apple Confirms 'Meltdown' and 'Spectre' Vulnerabilities Impact Macs and iOS
+73,Requests to new Dynos failing
+74,Observable Universe contains 10x more galaxies than previously thought (2016)
+75,DeepJ: Style-Specific Music Generation
+76,3.5B-year-old microbe fossils get another look
+77,Show HN: HNNotify – Get emailed when a users reply to your HN Posts and Comments
+78,"NSA’s top talent is leaving because of low pay, flagging morale, unpopular reorg"
+79,Open source modular synth software lets you create 70s & 80s electronic music
+80,New measurement confirms: The ozone is coming back
+81,Show HN: Basic GPU path tracer
+82,Linux kernel patches to use forthcoming Intel microcode fixes
+83,Why you can’t cash out pt 3: Bitcoin is not a Ponzi! It just works like one
+84,HDR Photography in Microsoft Excel (2017) [video]
+85,Spotify files for its IPO
+86,WP Engine passes $100M in revenue and secures $250M investment from Silver Lake
+87,Ask HN: Could JavaScript be moved to a higher x86 ring than userspace?
+88,StackOverflow Developer Survey Results 2017
+89,Why Rounded Corners Are Easier on the Eyes – UX Movement
+90,GIMPS Project Discovers Largest Known Prime Number
+91,Techniques for Factoring Numbers in Your Head
+92,Intel Confronts Potential ‘PR Nightmare’ With Reported Chip Flaw
+93,Coral Reefs Are Bleaching Too Frequently to Recover
+94,Kenichi Yamamoto has died
+95,Serious Intel CPU bugs (2016)
+96,India's massive citizen database was reportedly breached
+97,Ripple co-founder is now richer than the Google founders on paper
+98,"Ethereum breaks new record by reaching $1,000 for the first time"
+99,Astatine: Halogen or Metal?
+100,Fork is not my favourite syscall
+101,Ancient Infant's DNA Reveals New Clues to How the Americas Were Peopled
+102,The Expensive Art of Living Forever
+103,"Show HN: HNCute, a pretty pink Hacker News theme"
+104,Access to India's Aadhaar citizen database selling for under USD $10
+105,"A gene therapy to treat a rare, inherited form of blindness will cost $850K"
+106,AI System Sorts News Articles by Whether or Not They Contain Actual Information
+107,AMD Looks Poised to Gain at Intel's Expense
+108,Linux page table isolation is not needed on AMD processors
+109,Ubuntu anouncement on Spectre/Meltdown
+110,The ‘app’ you can’t trash: how SIP is broken in High Sierra
+111,Vulnerability of Speculative Processors to Cache Timing Side-Channel Mechanism
+112,Spotify hit with $1.6B copyright lawsuit
+113,Who Took the Legendary Earthrise Photo from Apollo 8?
+114,Some people swear by Alcoholics Anonymous and others despise it
+115,Retpoline: a software construct for preventing branch-target-injection
+116,Mark Zuckerberg's personal challenge for 2018
+117,Ask HN: Do you use State Machines for UI dev?
+118,The Case for the Subway
+119,"The Giant, Under Attack"
+120,Should application users be database users?
+121,Motel 6 routinely gave guests' information to immigration officials
+122,Ask HN: Who is hiring? (January 2018)
+123,"Complexity Theory, Game Theory, and Economics"
+124,"Don't Be Evil: Utopias, Frontiers, and Brogrammers"
+125,Physics Simulations
+126,"After beating cable lobby, Colorado city moves ahead with muni broadband"
+127,Show HN: React-Redux-Sass Starter Kit
+128,Degraded performance after forced reboot due to AWS instance maintenance
+129,Norwegian Student Takes Secret Street Photos In The 1890s
+130,Using Meltdown to steal passwords in real-time
+131,"My journey with Rust in 2017 — The good, the bad, the weird"
+132,Ask HN: Is commercial desktop software dead?
+133,2017 was the best year ever for electric vehicle sales in the US
+134,Why are bones not made of steel? (2010)
+135,Opera now protects you from cryptojacking attacks
+136,Mapzen Shutdown
+137,Using Java 9 Modularization to Ship Zero-Dependency Apps
+138,A swarm of submarine drones will scour the depths for MH370
+139,India caste protest disrupts Mumbai
+140,Become a Better Programmer by Making It Hard to Write Bad Code
+141,German hate speech law tested as Twitter blocks satire account
+142,Show HN: Easy magic-link authentication – Cierge
+143,Itch.io year in review 2017
+144,Show HN: Sapper.js – towards a better web app framework
+145,Intel Responds to Security Research Findings
+146,"Lenovo updates ThinkPad with Intel 8th-gen processors, USB Type-C power adapters"
+147,Scott Wiener proposes 3 new housing bills for CA
+148,New NASA mission will explore key zone between Earth and space
+149,SQL Keys in Depth
+150,Inequality in nature and society
+151,Apple joins AV1 consortium
+152,Pepper's Cone: An Inexpensive Do-It-Yourself 3D Display
+153,What I learned in 2017 writing Go
+154,Genetic Study Supports Carbohydrate-Insulin Model of Obesity
+155,Stimulus: A modest JavaScript framework for the HTML you already have
+156,Google explores sale of Zagat
+157,Intel was aware of the chip vulnerability when its CEO sold off company stock
+158,Physicists Uncover Geometric ‘Theory Space’
+159,"Dude, you broke the future"
+160,ASCIIFlow Infinity
+161,Apple Developer Program Membership Fee Waivers Now Available
+162,The US Government Blocks MoneyGram’s $1.2B Sale to Alibaba’s Ant Financial
+163,How the Å came to be
+164,Avoid speculative indirect calls in kernel
+165,Tesla's Model 3 volume production target pushed back again
+166,An Update on AMD Processor Security
+167,Eelo: A Google-less Android alternative emerges
+168,Apple acquires Buddybuild
+169,AWS Statement: Processor Speculative Execution Research Disclosure
+170,Trinitron: Sony's Once Unbeatable Product [video]
+171,Computer Science I [pdf]
+172,The Curious Life of an Extra
+173,Welcome to Linux Journal 2.0
+174,How Atlassian Built a $10B Growth Engine
+175,U.S. To End Policy That Let Legal Pot Flourish
+176,Do you really understand Principal Component Analysis?
+177,REVERSE JOB SEARCH: I will pay to work at your company
+178,Why the U.S. Spends So Much More Than Other Nations on Health Care
+179,Robust Client-Side JavaScript
+180,Ask HN: What are some good resources to learn about Crypto/Altcoins?
+181,Bitcoin Is the MySpace of the Cryptocurrency World (Part 1)
+182,Lensless camera creates detailed 3-D images without scanning
+183,Santa Fe art-tech 'amusement park' Meow Wolf picks Denver for expansion
+184,The Legacy of the Mississippi Delta Chinese
+185,Fix All Conflicts: Easy-To-use CUI for Fixing Git Conflicts
+186,GPG and me (2015)
+187,Gold particles in Eucalyptus leaves and buried gold deposits
+188,"Yes, Amazon Echo Is an Ad Machine"
+189,Welcome to Pleistocene Park
+190,Mistakes to avoid when asking for a raise
+191,New website for the Magnum C++11/C++14 graphics engine
+192,Database of Lost Crypto Assets
+193,"The Eccentric, Relentless Deal-Making of Masayoshi Son"
+194,"As Flow of Foreign Students Wanes, U.S. Universities Feel the Sting"
+195,"Cryptovirology: The Birth, Neglect, and Explosion of Ransomware"
+196,Show HN: Cipher – Mobile Ethereum Web3 DApp Browser
+197,A.I. And Big Data Could Power a New War on Poverty?
+198,The Criminal Underworld Is Dropping Bitcoin for Monero
+199,Teens Aren’t Partying Anymore
+200,A Q&A with iFixit CEO Kyle Wiens about the demise of the repair industry
+201,High doses of vitamin D rapidly reduce arterial stiffness
+202,The TX-2 Computer and Sketchpad (2012) [pdf]
+203,How I used machine learning as inspiration for physical paintings
+204,Casting in ATS
+205,Text Alerts Will Tell Net Neutrality Supporters Who to Vote Out of Congress
+206,"Revisiting a Summer Vacation: Digital Restoration, Typesetter Forensics (2013) [pdf]"
+207,Show HN: VidDistill – Automated YouTube Video Summarization Using Captions
+208,Parallel Saltational Evolution of Ultrafast Movements in Snapping Shrimp Claws
+209,Ask HN: Elm vs. React vs. Vue.js in 2018?
+210,Details of “Meltdown” and “Spectre” Attacks Against Intel and AMD Chips Disclosed
+211,Chisel: Constructing Hardware in a Scala Embedded Language
+212,Show HN: Mask R-CNN Neural Network for Mapping Sport Fields in OpenStreetMap
+213,Tesla Model 3 Sets New EV Cannonball Run Record
+214,How an A.I. ‘Cat-And-Mouse Game’ Generates Believable Fake Photos
+215,macOS 10.13.3 fixes the Intel KPTI issue
+216,Why Has Science Only Cured One Person of HIV?
+217,"A list of macOS, tvOS and iOS bugs while helping my family over the holidays"
+218,RaiBlocks: A Feeless Distributed Cryptocurrency Network [pdf]
+219,Show HN: lit – a 549 byte responsive CSS microframework
+220,Design of a low-level C++ template SIMD library [pdf]
+221,"After Equifax breach, anger but no action in Congress"
+222,My 2017 Expenses – Need Suggestion/ Guidance/ Tips/ Advice to Improve Savings
+223,Water's odd behavior stems from its ability to exist in two liquid states
+224,Home and hotel – Switching from macOS to Ubuntu on a Dell XPS 13 laptop
+225,Pophelper: an R package and web app to analyse and visualize population structure
+226,Retpoline: a software construct for preventing branch-target-injection
+227,Ask HN: Does anyone use an alternative to a password manager?
+228,The Mastermind Behind Chase’s Sapphire Reserve Card Sets Her Sights on Banking
+229,Cracking the Mondrian Code
+230,Ask HN: How do you stop yourself from stagnating?
+231,"Basecamp doesn’t employ anyone in SF, but now we pay everyone as though all did"
+232,"Ask HN: How do you manage all your interests, hopes, dreams?"
+233,"Intel with Radeon RX Vega Graphics: Core I7-8809G with 3.1 GHz Base, 100W TDP"
+234,A personal ode to the Boeing 747
+235,Ask HN: Monetize a small R&D lab?
+236,A Formally Verified Interpreter for a Shell-Like Programming Language
+237,Show HN: Socratic bot explores your beliefs online
+238,24 executives who are exceptional at chess
+239,Initial Performance Benchmarks of Linux's x86 Security Changes
+240,Why Saudi Arabia Is Pushing Premarital Genetic Screening
+241,Adversarial Patch
+242,SuperMeat raises $3M for lab-grown chicken
+243,Getting started with microservices and kubernetes
+244,"Serial Swatter Bragged He Hit 100 Schools, 10 Homes"
+245,Using Meltdown to steal passwords in real time
+246,IP address errors lead to wrongful arrests
+247,Intel's CEO Just Sold a Lot of Stock
+248,"Inside the Eccentric, Relentless Deal-Making of Masayoshi Son"
+249,Ask HN: Why Is My VPN's IPs Blocked from Hacker News?
+250,"Show HN: Tokei, a fast command line code counter written in Rust"
+251,"Silicon Valley's Secretive, Orgiastic Side"
+252,FCC is still editing the net neutrality repeal order
+253,The Theresa Duncan CD-ROMs
+254,Ruby instagram bot and scrapper
+255,"Announcing Diesel 1.0 – A Safe, Extensible Query Builder and ORM"
+256,95 Crypto Theses for 2018
+257,Visual chinatown of davidope
+258,Avere Systems joining Microsoft
+259,How America Is Transforming Islam
+260,PostgreSQL is the DBMS of the Year 2017
+261,Dolphin Progress Report: November and December 2017
+262,Google used a tax loophole to shelter $19.2B
+263,Show HN: Chainswap.io – Real-time exchange rates for any crypto coin pair
+264,Post-apocalyptic life in American health care
+265,A practical guide to microchip implants
+266,Spectre Attack
+267,Michael Wolff's Book “ Fire and Fury: Inside the Trump White House”
+268,Stasi files: scanner struggles to stitch together surveillance state scraps
+269,Ask HN: What fintech area problems would you like to see solved in 2018?
+270,Founders Fund Makes Bet on Bitcoin
+271,Cibyl: C to Java bytecode translator (2011)
+272,Hiring Sucks
+273,“[French president] sets out plan including emergency blocks on websites”
+274,Life off-grid in San Luis Valley’s high desert
+275,"Kernel memory leaking Intel processor design flaw forces Linux, Windows redesign"
+276,"Byzantine Agreement, Made Trivial [pdf]"
+277,X86-64 Speculative Execution Harness
+278,Nobel economist Angus Deaton: we're asking wrong questions about inequality
+279,Show HN: Athena – A community-curated repository of great learning resources
+280,iMac Pro Teardown
+281,Peak Pharma
+282,Things Developers Believe About Video Files (Proven Wrong by User Uploads)
+283,Things No One Ever Told You About Being Successful
+284,"To Sate China’s Appetite, African Donkeys Are Stolen and Skinned"
+285,Eelo: A Google-less Android alternative emerges
+286,The Majestic Monolith
+287,A feature that arXiv should have built years ago
+288,"Inside Silicon Valley’s Secretive, Orgiastic Dark Side"
+289,The Man Who Built Silicon Valley: A Tribute to Andy Grove (Intel)
+290,C++ Status at the end of 2017
+291,Scammers gaming India’s overcrowded job market
+292,Ask HN: What does the richest person you know do?
+293,Mount St. Helens Is Rumbling Again with 40 Earthquakes Since New Years Day
+294,Open source software for creating private and public clouds
+295,How to Find Arbitrage Opportunities in Python
+296,Stunning Photo of Earth and Moon from OSIRIS-REx
+297,"Apple's $250B in repatriated cash: Netflix, Disney, Tesla and other options"
+298,Bingo #kpti #intelbug
+299,Adrenalin driver breaks Command & Conquer games
