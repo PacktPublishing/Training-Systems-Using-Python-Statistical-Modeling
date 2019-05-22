@@ -1,6 +1,6 @@
 # Training Systems Using Python Statistical Modeling
 
-<a href="packt">  <img src="" alt="Training Systems Using Python Statistical Modeling" height="256px" align="right"></a>
+<a href="packt">  <img src="https://images-na.ssl-images-amazon.com/images/I/61clrm1Y8KL.jpg" alt="Training Systems Using Python Statistical Modeling" height="256px" align="right"></a>
 
 This is the code repository for [Training Systems Using Python Statistical Modeling](packt), published by Packt.
 
@@ -20,7 +20,7 @@ This book has the following features:
 * Implement regression analysis and clustering
 * Learn how to train a neural network in Python
 
-If you feel this book is for you, get your [copy](amazon) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/Training-Systems-Python-Statistical-Modeling/dp/1838823735) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
