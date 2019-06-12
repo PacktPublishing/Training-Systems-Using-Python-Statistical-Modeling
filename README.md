@@ -35,13 +35,15 @@ With the following software and hardware list you can run all code files present
 | All | Python 3.7 | Windows, Mac OS X, and Linux (Any) |
 | All | scikit-learn, pandas, matplotlib | Windows, Mac OS X, and Linux (Any) |
 
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/9781838823733_ColorImages.pdf).
+
 ### Related products
 * Hands-On Data Analysis with NumPy and Pandas [[PACKT]](https://www.packtpub.com/big-data-and-business-intelligence/hands-data-analysis-numpy-and-pandas) [[Amazon]](https://www.amazon.com/Hands-Data-Analysis-NumPy-pandas/dp/1789530792)
 
 * Statistical Application Development with R and Python - Second Edition [[PACKT]](https://www.packtpub.com/big-data-and-business-intelligence/statistical-application-development-r-and-python-second-edition) [[Amazon]](https://www.amazon.com/Statistical-Application-Development-Python-applications/dp/1788621190)
 
 
-## Get to Know the Authors
+## Get to Know the Author
 **Curtis Miller** 
 is a doctoral candidate at the University of Utah studying mathematical statistics. He writes software for both research and personal interest, including the R package (CPAT) available on the Comprehensive R Archive Network (CRAN). Among Curtis Miller's publications are academic papers along with books and video courses all published by Packt Publishing. Curtis Miller's video courses include Unpacking NumPy and Pandas, Data Acquisition and Manipulation with Python, Training Your Systems with Python Statistical Modelling, and Applications of Statistical Learning with Python. His books include Hands-On Data Analysis with NumPy and Pandas.
 ### Suggestions and Feedback
