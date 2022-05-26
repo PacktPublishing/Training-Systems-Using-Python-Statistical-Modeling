@@ -1,3 +1,7 @@
+## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B14714?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
+-----
+For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
+
 # Training Systems Using Python Statistical Modeling
 
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/training-systems-using-python-statistical-modeling">  <img src="https://images-na.ssl-images-amazon.com/images/I/61clrm1Y8KL.jpg" alt="Training Systems Using Python Statistical Modeling" height="256px" align="right"></a>
