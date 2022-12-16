@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781838823733)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Training Systems Using Python Statistical Modeling
 
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/training-systems-using-python-statistical-modeling">  <img src="https://images-na.ssl-images-amazon.com/images/I/61clrm1Y8KL.jpg" alt="Training Systems Using Python Statistical Modeling" height="256px" align="right"></a>
